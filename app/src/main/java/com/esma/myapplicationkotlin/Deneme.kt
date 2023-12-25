@@ -3,7 +3,7 @@ package com.esma.myapplicationkotlin
 
 fun main(){
     // sen projende çalıştıktan sonra yapman gereken şu sadece basitçe gösterdiğim yeri seçiyorsun
-    var ogrenciAdi = "esma"
+    var ogrenciAdi = "esma gül doğan"
     var ogrenciYasi = 19
     var ogrenciBoyu = 1.39
     var ogrenciBasHarf = 'e'
