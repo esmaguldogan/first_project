@@ -5,7 +5,7 @@ fun main(){
     // burayı değiştirdim Changes altında dosyaya iki kere tıklayınca hangi alanlar değiştirilmiş onu gösterir
     var ogrenciAdi = "esma"
     var ogrenciYasi = 19
-    var ogrenciBoyu = 1.98
+    var ogrenciBoyu = 1.39
     var ogrenciBasHarf = 'e'
 
     println(ogrenciAdi)
