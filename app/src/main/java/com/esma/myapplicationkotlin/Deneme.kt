@@ -2,7 +2,7 @@ package com.esma.myapplicationkotlin
 
 
 fun main(){
-    // burayı değiştirdim Changes altında dosyaya iki kere tıklayınca hangi alanlar değiştirilmiş onu gösterir
+    // sen projende çalıştıktan sonra yapman gereken şu sadece basitçe gösterdiğim yeri seçiyorsun
     var ogrenciAdi = "esma"
     var ogrenciYasi = 19
     var ogrenciBoyu = 1.39
