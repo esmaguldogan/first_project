@@ -31,4 +31,6 @@ fun main(){
     var b = 20
     println("$a + $b nin toplamı = ${a+b}")
 
+
+
 }

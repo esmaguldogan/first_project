@@ -14,6 +14,4 @@ fun main() {
     // bu işaret ise \\ = \ demektir.
     // bir diğer kaçış karakteri ise /* */
 
-
-
 }
