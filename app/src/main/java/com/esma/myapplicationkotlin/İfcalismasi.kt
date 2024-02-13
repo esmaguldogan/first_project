@@ -1,8 +1,10 @@
 package com.esma.myapplicationkotlin
 
+import java.util.Scanner
+
 
 fun main(){
-
+    val girdi = Scanner(System.`in`)
     var yas = 17
     var isim = "Mehmet"
 

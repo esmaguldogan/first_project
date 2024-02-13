@@ -10,3 +10,10 @@ fun main () {
 
     println("not ortalamasi: $sinavort")
  }
+//if (sinavortalamasi < 50)
+//  println("Kaldı")
+// else if (sinavortalamasi <= 70)
+//  println("İyi")
+//  else if (sinavortalamasi <= 100)
+//   print("Geçti")
+//}

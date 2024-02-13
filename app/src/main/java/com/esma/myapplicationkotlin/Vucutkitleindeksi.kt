@@ -27,6 +27,7 @@ fun main(){
         println("Ortamaya göre fazla kilolusunuz")
     else
         println("Obezsiniz")
+    
 
 
 
