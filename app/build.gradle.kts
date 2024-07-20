@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.esma.myapplicationkotlin"
+    namespace = "com.esma.nesnetabanliprogramlama"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.esma.myapplicationkotlin"
+        applicationId = "com.esma.nesnetabanliprogramlama"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

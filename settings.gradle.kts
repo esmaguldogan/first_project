@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Applicationkotlin"
+rootProject.name = "NesneTabanliProgramlama"
 include(":app")
+ 
