@@ -10,6 +10,7 @@ fun main(){
         return sonuc
     }
     val t1= toplam (1,2,3,4,5,6,7,8,9)
+    // deneme
     println("t1= $t1")
 
 }
