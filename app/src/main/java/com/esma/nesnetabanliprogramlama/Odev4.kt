@@ -2,6 +2,8 @@ package com.esma.nesnetabanliprogramlama
 
 class Odev4 {
 
+    //Parametre	olarak	girilen	kelime	ve	harf	için	harfin	kelime	içinde	kaç
+    //adet	olduğunu	gösteren	bir	metod yazınız.
     fun KelimeAdeti(kelime:String, harf: Char){
         var sonuc = 0
 
